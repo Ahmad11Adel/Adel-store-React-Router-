@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -36,3 +37,25 @@
     transform: rotate(360deg);
   }
 }
+
+.Edit{
+  font-family: 'Lobster', cursive;
+}
+.navbar{
+  height: 50px !important;
+}
+.productcard{
+  height: 600px !important; 
+
+  overflow:scroll;
+}
+.card{
+  height: 100% !important;
+  
+  
+}
+.ddd{
+  background-image: url("./component/imgs/img4.jpg");
+}
+
+
